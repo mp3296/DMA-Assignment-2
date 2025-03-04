@@ -6,7 +6,21 @@ Welcome to the Flutter App, a versatile application designed to enhance user exp
 
 ## Project Structure
 
-flutter_app/ ├── lib/ │ ├── main.dart │ └── screens/ │ ├── login_screen.dart │ ├── home_page.dart │ ├── tour_schedule.dart │ ├── interactive_maps.dart │ ├── guide_content.dart │ └── feedback.dart ├── assets/ │ └── images/ │ └── background.jpg └── test/ └── widget_test.dart
+flutter_app/
+├── lib/
+│   ├── main.dart
+│   └── screens/
+│       ├── login_screen.dart
+│       ├── home_page.dart
+│       ├── tour_schedule.dart
+│       ├── interactive_maps.dart
+│       ├── guide_content.dart
+│       └── feedback.dart
+├── assets/
+│   └── images/
+│       └── background.jpg
+└── test/
+    └── widget_test.dart
 
 
 
