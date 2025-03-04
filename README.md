@@ -5,7 +5,7 @@
 Welcome to the Flutter App, a versatile application designed to enhance user experience with features such as login, tour scheduling, interactive maps, guide content, and feedback submission.
 
 ## Project Structure
-
+```
 flutter_app/
 ├── lib/
 │   ├── main.dart
@@ -22,7 +22,7 @@ flutter_app/
 └── test/
     └── widget_test.dart
     
-
+```
 
 
 ## Features
